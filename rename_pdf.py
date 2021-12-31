@@ -14,4 +14,3 @@ for pdf in pdf_list:
         text = pdf_obj[0].get_text()
     new_file_name = text.split("\n", 1)[0].strip()
     rename(pdf, new_file_name + '.pdf')
-    
