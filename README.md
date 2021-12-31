@@ -13,7 +13,9 @@ A small script that renames PDF files using a string of text from inside the PDF
 #### STEPS
 1. Change default profile within VSC:
    ..* CTRL + SHIFT + P
+   
    ..* Search "Terminal: Select Default Profile"
+   
    ..* Click "Command Prompt" 
    
 2. Create and activate the virtual environment + install library (run commands in a new CMD terminal)
