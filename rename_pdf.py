@@ -3,8 +3,6 @@ from os import DirEntry, curdir, getcwd, chdir, rename
 from glob import glob as glob
 
 directory = 'PDF_FILES'
-curr_dir = getcwd()
-
 chdir(directory)
 
 pdf_list = glob('*.pdf')
