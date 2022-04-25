@@ -18,7 +18,7 @@ for pdf in pdf_list:
     with fitz.open(pdf) as pdf_obj:
         for page in pdf_obj:
             text += page.get_text()
-    new_file_name = re.search(cr_regex, text).group() + '.pdf'
+    new_file_name = re.search(cr_regex, text).group().strip() + '.pdf'
     text = ""
     
     # Tries to rename a pdf. If the filename doesn't already exist
