@@ -33,6 +33,6 @@ for pdf in pdf_list:
 # then print them out to a text file to view later.
 chdir(get_curr)
 if (len(failed_pdfs) > 0):
-    for failure in failed_pdfs:
-        with open('PDF_FAILURES.txt', 'w') as f:
+    with open('PDF_FAILURES.txt', 'w') as f:
+        for failure in failed_pdfs:
             f.writelines(failure + '\n')
