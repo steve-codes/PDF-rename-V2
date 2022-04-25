@@ -36,7 +36,3 @@ if (len(failed_pdfs) > 0):
     for failure in failed_pdfs:
         with open('PDF_FAILURES.txt', 'w') as f:
             f.writelines(failure + '\n')
-
-
-
-
