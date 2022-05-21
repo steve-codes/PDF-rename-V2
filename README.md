@@ -4,7 +4,7 @@ In this script we address the requests in video #1 (on the main branch) which in
   2. Regex to isolate text in PDFs 
   
 ## **VIDEO TUTORIAL/EXPLANIATION:**
-
+https://www.youtube.com/watch?v=skWVKXH3nVY
 
 ## **Note:** This tutorial assumes you have:
   1. Python 3.9.5 
