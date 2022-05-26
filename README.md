@@ -2,8 +2,8 @@
 A small script that renames PDF files using a string of text from inside the PDF.
 
 **VIDEO TUTORIAL/EXPLANIATION:**
-https://www.youtube.com/watch?v=9kyBEaGw_Ic
 
+https://www.youtube.com/watch?v=9kyBEaGw_Ic
 
 **Note:** This tutorial assumes you have:
   1. Python 3.9.5 
