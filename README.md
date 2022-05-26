@@ -25,7 +25,7 @@ https://www.youtube.com/watch?v=9kyBEaGw_Ic
       * (activates virtual environment)
    3. python -m pip install --upgrade pip     
       * (Upgrade pip in virtual environment)
-   4. python -m pip install --upgrade pymupdf 
+   4. python -m pip install --upgrade pymupdf
       * (Install the PyMuPDF library)
    
 3. Create the python file (you can use any name or follow the tutorial)
